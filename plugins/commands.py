@@ -49,7 +49,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('Donate♥️', url='https://telegra.ph/Buy-Me-Coffee-12-25'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://telegra.ph/Professorr-Botz-Update-12-19-2')
             ],[
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
@@ -102,7 +102,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('Donate♥️', url='https://telegra.ph/Buy-Me-Coffee-12-25'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://telegra.ph/Professorr-Botz-Update-12-19-2')
             ],[
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
