@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hello {},\n\nɪ"ɪ'ᴍ ꜱɪᴍᴘʟᴇ ʏᴇᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. \n ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ɢɪᴠᴇ ʏᴏᴜ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ. \n\n ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/professorr_x>Professorr</a>"""
+    START_TXT = """Hello {},\n\nɪ'ᴍ ꜱɪᴍᴘʟᴇ ʏᴇᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. \n ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ɢɪᴠᴇ ʏᴏᴜ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ. \n\n ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/professorr_x>Professorr</a>"""
     LZTHMB_TEXT = """Hello {},
 Glad to see you here. It seems that you really love <a href=https://t.me/professorr_x>Professorr's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://telegra.ph/Professorr-Botz-Update-12-19-2>Dev Channel</a> and stay tuned for next <a href=https://telegra.ph/Professorr-Botz-Update-12-19-2>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/professorr_x>Professorr Support</a>
     """
